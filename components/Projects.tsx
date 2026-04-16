@@ -17,7 +17,7 @@ const projects = [
   {
     title: "AI Analytics Dashboard",
     type: "dashboard",
-    link: "#",
+    link: "ai-employee-dashboard-ebip0upby-aulakhznavreen-9635s-projects.vercel.app",
     details: [
       "Interactive real-time charts",
       "Data-driven insights panel",
