@@ -15,14 +15,14 @@ const projects = [
     ],
   },
   {
-    title: "AI Analytics Dashboard",
+    title: "Intelligent Employee Performance Analytics System",
     type: "dashboard",
-    link: "ai-employee-dashboard-ebip0upby-aulakhznavreen-9635s-projects.vercel.app",
+    link: "https://ai-employee-dashboard-ebip0upby-aulakhznavreen-9635s-projects.vercel.app",
     details: [
-      "Interactive real-time charts",
-      "Data-driven insights panel",
-      "Modular reusable components",
-      "Built with Chart.js + React",
+      "Tracks employee productivity & performance metrics",
+      "Real-time KPI monitoring with interactive charts",
+      "AI-powered insights for smarter decision-making",
+      "Built with React, Chart.js & analytics pipelines",
     ],
   },
   {
@@ -103,7 +103,7 @@ export default function Projects() {
                   {project.type === "chat" &&
                     "AI-powered fitness & diet planning system."}
                   {project.type === "dashboard" &&
-                    "Interactive analytics dashboard with insights."}
+                    "Intelligent system for employee performance tracking & analytics."}
                   {project.type === "portfolio" &&
                     "Modern high-converting developer portfolio."}
                 </p>
